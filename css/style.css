@@ -35,11 +35,7 @@ html{
 /* ---------------------- */
 /* ---------Header------- */
 /* ---------------------- */
-<<<<<<< HEAD
-/* logo and sologan */
-=======
 /* logo and slogan */
->>>>>>> b3c8101f09d596b34bd60697c40cec489c9d6481
 .header {
     margin: 10px;
 
@@ -51,11 +47,7 @@ html{
 .image img {
     display: inline-block;
 }
-<<<<<<< HEAD
-.image__sologan {
-=======
 .image__slogan {
->>>>>>> b3c8101f09d596b34bd60697c40cec489c9d6481
     float: right;
     margin-right: 100px;
 }
