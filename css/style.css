@@ -110,3 +110,38 @@ html{
 .product__content {
     font-size: 16px;
 }
+/* ----------------------  */
+/* -----News and event---- */
+/* ----------------------  */
+.news-event {
+}
+.left, .right {
+    float: left;
+    width: 50%;
+}
+.left {
+    padding: 4px 10px 0px 10px;
+}
+.right-event-news {
+    float: left;
+    width: 50%;
+    padding:  3px 10px;
+
+}
+.news-event__box {
+    position: relative;
+}
+.news-event__img {
+    width: 100%;
+    height: 100%;
+}
+.news-event__text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-transform: uppercase;
+    padding: 0 10px;
+}
